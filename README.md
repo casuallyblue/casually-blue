@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Some Projects I'm moderately proud of
+- (Compiler and parser library)[https://github.com/casually-blue/sierra-compiler-ocaml]
+- (SSH fork with xdg support)[https://github.com/casually-blue/openssh-portable-xdg]
+- (Magic the gathering card viewer)[https://github.com/casually-blue/magic-rs]
+
+## Libraries i maintain
+- (CUCM axl java binding)[https://github.com/casually-blue/cucm]
+
 <!--
 **casually-blue/casually-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
