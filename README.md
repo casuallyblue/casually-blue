@@ -5,7 +5,7 @@
 - [SSH fork with xdg support](https://github.com/casually-blue/openssh-portable-xdg)
 - [Magic the gathering card viewer](https://github.com/casually-blue/magic-rs)
 
-## Libraries i maintain
+## Libraries I maintain
 - [Cisco CUCM AXL Java binding](https://github.com/casually-blue/cucm)
 
 <!--
