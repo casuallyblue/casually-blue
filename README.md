@@ -1,4 +1,5 @@
 ### Hi there 👋
+I've (mostly) moved away from using github. I'm now able to be found on [Forgejo](https://git.casuallyblue.dev/sierra).
 
 ## Stuff I'm currently working on
 - [RLisp (Lisp implementation in rust)](https://github.com/casually-blue/rlisp)
@@ -6,11 +7,8 @@
 
 ## Some Projects I'm moderately proud of
 - [Compiler and parser library](https://github.com/casually-blue/sierra-compiler-ocaml)
-- [SSH fork with xdg support](https://github.com/casually-blue/openssh-portable-xdg)
+- [SSH fork with xdg support](https://git.casuallyblue.dev/sierra/openssh)
 - [Magic the gathering card viewer](https://github.com/casually-blue/magic-rs)
-
-## Projects I contribute to
-- [OneDev (Open source github replacement)](https://code.onedev.io/projects/160)
 
 ## Libraries I maintain
 - [Cisco CUCM AXL Java binding](https://github.com/casually-blue/cucm)
